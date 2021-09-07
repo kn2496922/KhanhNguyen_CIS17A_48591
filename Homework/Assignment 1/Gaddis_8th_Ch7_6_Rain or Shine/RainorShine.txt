@@ -1,0 +1,13 @@
+The number of rainy days in June: 11
+The number of sunny days in June: 10
+The number of cloudy days in June: 9
+The number of rainy days in July: 17
+The number of sunny days in July: 8
+The number of cloudy days in July: 5
+The number of rainy days in August: 7
+The number of sunny days in August: 13
+The number of cloudy days in August: 10
+The total rainy days in 3 months: 35
+The total sunny days in 3 months: 31
+The total cloudy days in 3 months: 24
+July has the most rainy days
