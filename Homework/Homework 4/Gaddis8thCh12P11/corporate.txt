@@ -1,0 +1,16 @@
+West
+Quarter 1
+Sale figure: 100
+
+East
+Quarter 2
+Sale figure: 200
+
+South
+Quarter 3
+Sale figure: 300
+
+North
+Quarter 4
+Sale figure: 400
+
