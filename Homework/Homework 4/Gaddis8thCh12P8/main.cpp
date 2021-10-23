@@ -66,14 +66,14 @@ int main(int argc, char** argv) {
 //Output the array into the binary file
 void aryToFi(fstream &out, int *a, int size)
 {   
-    out.write(reinterpret_cast<char *>(a), (size)*sizeof(a));
+    out.write(reinterpret_cast<char *>(a), (size)*sizeof(int));
 }
 
 //input the binary file to an array
 void fiToAry(fstream &in, int *a, int size)
 {
     in.seekg(0L, ios::beg);
-    in.read(reinterpret_cast<char *>(a), (size)*sizeof(a));
+    in.read(reinterpret_cast<char *>(a), (size)*sizeof(int));
     
 }
 
